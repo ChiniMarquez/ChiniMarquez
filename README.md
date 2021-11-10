@@ -9,4 +9,4 @@
 Mi nombre es Cinthia Marquez y tengo 22 años. Actualmente estoy estudiando programación y me estoy formando en un instituto aeronutico.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dracula&show_icons=true)
+![Chini stats](https://github-readme-stats.vercel.app/api?ChiniMarquez=anuraghazra&theme=dracula&show_icons=true)
