@@ -1,13 +1,26 @@
-## Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, Soy [Chini!](https://github.com/ChiniMarquez) !!
+<p align="center">
+  <br>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" /> Hola! Soy <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/ChiniMarquez">Chini</a> </b>
+    <br>¡Bienvenidos a mi Github!<br>
+  <br>
+  <br>
+  <img src="https://user-images.githubusercontent.com/89086478/141215040-e15efe71-81f9-4f3f-89a3-889943efff71.gif" width="200" />
+</p>
 
-</br>
-
-<img align="" src="https://giphy.com/gifs/ecardmint-space-avatar-girl-KZevAlTKyF1aOQkNbs" width="200" height="200"/>
-</br></br></br>
-
-
-## Sobre mi...
-
-Mi nombre es Cinthia Marquez y tengo 22 años. Actualmente estoy estudiando programación y me estoy formando en un instituto aeronutico.
+## 
+<br>
+<p align="center">
+<a href="www.linkedin.com/in/marquezcinthia"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-linkedin-circled-48.png" alt="LinkedIn"></a> &nbsp; &nbsp;
+<a href="https://www.instagram.com/chinimarquez/"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-instagram-48.png" alt="Instagram"></a> &nbsp; &nbsp;
+<a href="mailto:marquezcinthia98@gmail.com"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-gmail-48.png" alt="Gmail"></a> &nbsp; &nbsp;
+</p>
 
 
+##
+
+
+<p align="center">
+  <br>
+<img src="https://github-readme-stats.vercel.app/api?username=ChiniMarquez&show_icons=true&count_private=true&theme=nightowl" width="400"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiniMarquez&layout=compact&count_private=true&theme=nightowl" alt="languages" height="158"/>  
+<br/> 
+  </p>
