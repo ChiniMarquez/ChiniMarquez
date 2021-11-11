@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/89086478/141215040-e15efe71-81f9-4f3f-89a3-889943efff71.gif" align="right" height="320" />
+<img src="https://user-images.githubusercontent.com/89086478/141215040-e15efe71-81f9-4f3f-89a3-889943efff71.gif" align="right" height="305" />
 <!-- <p align="center"> -->
   <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" /> Hola! Soy <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/ChiniMarquez">Chini</a> </b></h1>
     <h3 align="center"><br>¡Bienvenidos a mi Github!<br></h3>
