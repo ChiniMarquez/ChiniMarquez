@@ -22,8 +22,4 @@
 ##
 
 
-<p align="center">
-  <br>
-<img src="https://github-readme-stats.vercel.app/api?username=ChiniMarquez&show_icons=true&count_private=true&theme=nightowl" width="400"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiniMarquez&layout=compact&count_private=true&theme=nightowl" alt="languages" height="158"/>  
-<br/> 
-  </p>
+
